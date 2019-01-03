@@ -1,18 +1,1 @@
-Hello World!
-Hello World again from gitTrial!!!
-
-Latest line from gitTrial
-
-
-
-Hello World from gitTrial2
-
-Hello Workd again from gitTrial2
-Hello world 3 from gitTrial3
-How the hell did this happen
-
-
-
-
-
 Trying to test git stash
