@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello World!
-Hello World from user 2!
-=======
-Trying to test git stash
->>>>>>> dev
+This is a line commited in master
